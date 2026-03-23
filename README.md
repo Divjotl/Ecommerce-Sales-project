@@ -6,23 +6,23 @@ This project focuses on analyzing e-commerce sales data to uncover key business 
 
 🔹 **Key Features**
 
--Interactive dashboard with filters for region, category, and time period
+- Interactive dashboard with filters for region, category, and time period
 
--Sales performance analysis (revenue, profit, order trends)
+- Sales performance analysis (revenue, profit, order trends)
 
--Customer insights including purchasing patterns, payment mode and top segments
+- Customer insights including purchasing patterns, payment mode and top segments
 
--Product-level analysis to identify best-selling and underperforming items
+- Product-level analysis to identify best-selling and underperforming items
 
--KPI tracking for data-driven decision-making
+- KPI tracking for data-driven decision-making
 
 🔹 **Tools & Technologies**
 
--Power BI
+- Power BI
 
--Excel / CSV (data source)
+- Excel / CSV (data source)
 
--Data cleaning and transformation (Power Query)
+- Data cleaning and transformation (Power Query)
 
 🔹 **Outcome**
 
